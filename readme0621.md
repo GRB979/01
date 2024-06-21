@@ -75,7 +75,26 @@ int main()
 
 ```
 
+```java
 
+```
+
+```cpp
+
+```
+
+```bash
+    echo "数据回显"
+```
+
+##超链接
+
+[百度搜索](https://www.baidu.com "点击进入")
+
+
+##图片插入
+
+![桌面截图](C://Users//Lenovo//Desktop//图图片//1.jpg "图片显示")
 
 
 
